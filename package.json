@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/guakun/guagulu/issues"
   },
-  "homepage": "https://github.com/guakun/guagulu#readme"
+  "homepage": "https://github.com/guakun/guagulu#readme",
+  "dependencies": {
+    "vue": "^2.5.16"
+  }
 }
