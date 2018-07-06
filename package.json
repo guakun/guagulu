@@ -1,0 +1,23 @@
+{
+  "name": "gwgulu",
+  "version": "0.0.1",
+  "description": "这是个UI组件库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guakun/guagulu.git"
+  },
+  "keywords": [
+    "ui",
+    "lib"
+  ],
+  "author": "guakun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guakun/guagulu/issues"
+  },
+  "homepage": "https://github.com/guakun/guagulu#readme"
+}
